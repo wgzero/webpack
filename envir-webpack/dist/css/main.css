@@ -1,0 +1,10 @@
+html {
+  width: 100%;
+  height: 100%;
+}
+html #root {
+  font-size: 30px;
+  color: pink;
+}
+html{background:skyblue}html body{color:red}
+/*# sourceMappingURL=main.css.map*/
